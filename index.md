@@ -5,5 +5,5 @@ With a background as a trained plant pathologist, my journey has led me to becom
 Beyond my professional endeavors, my life is an intricate tapestry of passions and pursuits. Cooking, gardening, hiking, running, photography, and playing Ping-Pong fill my leisure hours with boundless joy. Amid these, photography emerges as a cherished cornerstone.
 # Photography Is One of My Favorite Hobbies
 I love capturing the beauty of the world around me through my camera lens. Whether it’s the vibrant colors of a sunset, the intricate details of a flower, or the majesty of wild animals and insects, I’m always on the lookout for something that catches my eyes. Photography has taught me to observe the world more carefully and appreciate the little moments that make life so special. Sometimes, I’m lucky enough to capture these moments in photos and share them with friends and family. A picture is worth a thousand words, and I believe that photos can tell stories in ways that words cannot. Taking photos has also taught me patience and perseverance; sometimes getting the perfect shot requires hiking long distances or waiting for hours for the right moment. But when I finally get that perfect shot, it’s all worth it. Photography is not just a hobby for me; it’s a way to stay connected with the world around me and improve my physical and mental health.
-### Sample Photos
-![alt photo](0G4A2035.jpg) ![alt photo](FullSizeRender.jpg)
+#### Sample Photos
+![alt photo](FullSizeRender.jpg) ![alt photo](0G4A2035.jpg) 
