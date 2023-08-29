@@ -1,6 +1,6 @@
 # Discover the Delightful Quirks of My Website 
 Prepare to be captivated by the world of my site! Immerse yourself in a vibrant array of content ranging from my cherished hobbies and captivating photos to delectable cooking recipes and handy gardening tips. But that's not all—brace yourself for some exciting surprises! Occasionally, I'll regale you with tales of thrilling adventures, whisk you away to historical and scenic hiking sites, and even share my escapades in wild mushroom hunting. Delving deeper, you'll uncover thought-provoking discussions on research-related subjects and the latest scorching trends in the realm of data science. Your journey through my site promises to be an exhilarating experience!
-# Peek into My World: Unveiling My Passions and Aspirations
+# Unveiling My Passions and Aspirations
 With a background as a trained plant pathologist, my journey has led me to become a risk analyst. My work involves developing survey design tools, conceptualizing innovative survey plans, and meticulously evaluating the effectiveness of these designs. My job also includes data analysis and statistical inference. So, to become a data scientist is my dream.  
 Beyond my professional endeavors, my life is an intricate tapestry of passions and pursuits. Cooking, gardening, hiking, running, photography, and playing Ping-Pong fill my leisure hours with boundless joy. Amid these, photography emerges as a cherished cornerstone.
 # Photography Is One of My Favorite Hobbies
